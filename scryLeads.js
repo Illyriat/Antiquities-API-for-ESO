@@ -10,6 +10,7 @@ db.scryLeadInfo.insertMany([
     {
         "itemName" : "",
         "quality" : "",
+        "level" : "",
         "leadLocation" : "",
         "type" : "",
         "digZone" : "",
