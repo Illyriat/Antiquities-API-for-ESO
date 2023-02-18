@@ -1,7 +1,9 @@
-// use scryLeads;
-// db.dropDatabase();
+// // use scryLeads;
+// // db.dropDatabase();
 
-db.scryLeadInfo.insertMany([
+// db.scryLeadInfo.insertMany
+
+([
 
     // Zone Leads. Alphabetical Order.
 
@@ -489,7 +491,7 @@ db.scryLeadInfo.insertMany([
         "itemName" : "Tall Papas Lamp (Painting)",
         "quality" : "Purple",
         "level" : "Advanced",
-        "leadLocation" : "Safeboxes, Thieves Trove, World Bosses, Public Dungeon Bosses, Nightstand in Anchor’s Point Inn, Evermore, Klathzgar Delve Boss",
+        "leadLocation" : "Safeboxes, Thieves Trove, World Bosses, Public Dungeon Bosses, Nightstand in Anchors Point Inn, Evermore, Klathzgar Delve Boss",
         "type" : "Furnishing",
         "digZone" : "Bangkorai",
         "img" : "",
@@ -601,11 +603,311 @@ db.scryLeadInfo.insertMany([
     // Blackwood
 
     {
-        "itemName" : "",
-        "quality" : "",
-        "level" : "",
-        "leadLocation" : "",
-        "type" : "",
+        "itemName" : "Ancestral Reach, All Motif Chapters",
+        "quality" : "Green",
+        "level" : "Basic",
+        "leadLocation" : "Treasure Map Chests",
+        "type" : "Motif",
+        "digZone" : "Blackwood",
+        "img" : "",
+    },
+
+    {
+        "itemName" : "Imperial Legionarys Spade",
+        "quality" : "Green",
+        "level" : "Advanced",
+        "leadLocation" : "Free Starter lead",
+        "type" : "Treasure",
+        "digZone" : "Blackwood",
+        "img" : "",
+    },
+
+    {
+        "itemName" : "Dusty Tapestry Scrap",
+        "quality" : "Blue",
+        "level" : "Master",
+        "leadLocation" : "South East of the Xeemhoks Lagoon World Boss, destroyed hut next to a Skeleton",
+        "type" : "Furnishing",
+        "digZone" : "Blackwood",
+        "img" : "",
+    },
+
+    {
+        "itemName" : "Antique Map of Blackwood",
+        "quality" : "Green",
+        "level" : "Basic",
+        "leadLocation" : "Innkeeper in Blackwood, Pathfinder Achievement Required",
+        "type" : "Furnishing",
+        "digZone" : "Blackwood",
+        "img" : "",
+    },
+
+    {
+        "itemName" : "Filthy Tapestry Scrap",
+        "quality" : "Blue",
+        "level" : "Master",
+        "leadLocation" : "Ruined cart South-East of the Blueblood Wayshrine",
+        "type" : "Furnishing",
+        "digZone" : "Blackwood",
+        "img" : "",
+    },
+
+    {
+        "itemName" : "Frayed Tapestry Scrap",
+        "quality" : "Blue",
+        "level" : "Master",
+        "leadLocation" : "Inside a tunnel next to the Vunalk Wayshrine behind a shrine.",
+        "type" : "Furnishing",
+        "digZone" : "Blackwood",
+        "img" : "",
+    },
+
+    {
+        "itemName" : "Grimy Tapestry Scrap",
+        "quality" : "Blue",
+        "level" : "Master",
+        "leadLocation" : "Northeast wall outside of the “The Silent Halls” Public Dungeon next to a a digplace with a shovel.",
+        "type" : "Master",
+        "digZone" : "Blackwood",
+        "img" : "",
+    },
+
+    {
+        "itemName" : "Holey Tapestry Scrap",
+        "quality" : "Blue",
+        "level" : "Master",
+        "leadLocation" : "Close to Gideon town, inside Duchess’s Private Study hideout, inside the broken wall.",
+        "type" : "Furnishing",
+        "digZone" : "Blackwood",
+        "img" : "",
+    },
+
+    {
+        "itemName" : "Moth Eaten Tapestry Scrap",
+        "quality" : "Blue",
+        "level" : "Master",
+        "leadLocation" : "West of the Leyawiin Outskirts Wayshrine inside a cave.",
+        "type" : "Furnishing",
+        "digZone" : "Blackwood",
+        "img" : "",
+    },
+
+    {
+        "itemName" : "Ragged Tapestry Scrap",
+        "quality" : "Blue",
+        "level" : "Master",
+        "leadLocation" : "Next to a boat at the water close to the Tidewater Cave",
+        "type" : "Furnishing",
+        "digZone" : "Blackwood",
+        "img" : "",
+    },
+
+    {
+        "itemName" : "Ratty Tapestry Scrap",
+        "quality" : "Blue",
+        "level" : "Master",
+        "leadLocation" : "South of the White Stallion Inn (North of the Leyawiin City)",
+        "type" : "Furnishing",
+        "digZone" : "Blackwood",
+        "img" : "",
+    },
+
+    {
+        "itemName" : "Ripped Tapestry Scrap",
+        "quality" : "Blue",
+        "level" : "Master",
+        "leadLocation" : "North of the Vunalk Wayshrine at the big lake inside a destroyed hut",
+        "type" : "Furnishing",
+        "digZone" : "Blackwood",
+        "img" : "",
+    },
+
+    {
+        "itemName" : "Shattered Aylied Cloak Clasp",
+        "quality" : "Blue",
+        "level" : "Advanced",
+        "leadLocation" : "Reward for excavating the Imperial Legionary Spade",
+        "type" : "Treasure",
+        "digZone" : "Blackwood",
+        "img" : "",
+    },
+
+    {
+        "itemName" : "Soiled Tapestry Scrap",
+        "quality" : "Blue",
+        "level" : "Master",
+        "leadLocation" : "At the Stonewastes Wayshrine next to an extinguished fire and a tent (South of the Blackwood Map)",
+        "type" : "Furnishing",
+        "digZone" : "Blackwood",
+        "img" : "",
+    },
+
+    {
+        "itemName" : "Stained Tapestry Scrap",
+        "quality" : "Blue",
+        "level" : "Master",
+        "leadLocation" : "South-East of the Stonewastes Wayshrine on top of a wheatered building",
+        "type" : "Furnishing",
+        "digZone" : "Blackwood",
+        "img" : "",
+    },
+
+    {
+        "itemName" : "Stitched Tapestry Scrap",
+        "quality" : "Blue",
+        "level" : "Master",
+        "leadLocation" : "North West of the Xi-Tsei Delve close to a boat",
+        "type" : "Furnishing",
+        "digZone" : "Blackwood",
+        "img" : "",
+    },
+
+    {
+        "itemName" : "Tattered Tapestry Scrap",
+        "quality" : "Blue",
+        "level" : "Master",
+        "leadLocation" : "East of the Leyawiin city, over the bridge and then to the right side, next to a skeleton and a backpack",
+        "type" : "Furnishing",
+        "digZone" : "Blackwood",
+        "img" : "",
+    },
+
+    {
+        "itemName" : "Threadbare Tapestry Scrap",
+        "quality" : "Blue",
+        "level" : "Master",
+        "leadLocation" : "South of Glenbridge next to a tent, a bit off the road",
+        "type" : "Furnishing",
+        "digZone" : "Blackwood",
+        "img" : "",
+    },
+
+    {
+        "itemName" : "Torn Tapestry Scrap",
+        "quality" : "Blue",
+        "level" : "Master",
+        "leadLocation" : "South of “The Shattered Xanmeer” Boss.",
+        "type" : "Furnishing",
+        "digZone" : "Blackwood",
+        "img" : "",
+    },
+
+    {
+        "itemName" : "Bog Blight Funerary Mask",
+        "quality" : "Purple",
+        "level" : "Advanced",
+        "leadLocation" : "West of the Rockgrove Trial on a stick",
+        "type" : "Outfit Style",
+        "digZone" : "Blackwood",
+        "img" : "",
+    },
+
+    {
+        "itemName" : "Kothringi Tidal Canoe",
+        "quality" : "Purple",
+        "level" : "Advanced",
+        "leadLocation" : "Daily Quest in Blackwood from the reward box.",
+        "type" : "Furnishing",
+        "digZone" : "Blackwood",
+        "img" : "",
+    },
+
+    {
+        "itemName" : "Sint Kaladas Plumb Bob",
+        "quality" : "Purple",
+        "level" : "Advanced",
+        "leadLocation" : "Reward for excavating Shattered Ayleid Cloak Clasp",
+        "type" : "Treasure",
+        "digZone" : "Blackwood",
+        "img" : "",
+    },
+
+    {
+        "itemName" : "Z'en Idol",
+        "quality" : "Purple",
+        "level" : "Advanced",
+        "leadLocation" : "Chests, Safeboxes, Thieves Troves, Public and Delve Dungeons, World Bosses, Harvesting Nodes",
+        "type" : "Furnishing",
+        "digZone" : "Blackwood",
+        "img" : "",
+    },
+
+    {
+        "itemName" : "Reinforced Clasp Anchor",
+        "quality" : "Gold",
+        "level" : "Master",
+        "leadLocation" : "Public Dungeon Silent Hall, Wootwhisperer Boss, Vor’Chul The Beastbreaker Boss",
+        "type" : "Mythic Item",
+        "digZone" : "Blackwood",
+        "img" : "",
+    },
+
+    {
+        "itemName" : "Chain of the Vampire",
+        "quality" : "Gold",
+        "level" : "Master",
+        "leadLocation" : "Harrowstorms in The Reach",
+        "type" : "Mythic Item",
+        "digZone" : "Blackwood",
+        "img" : "",
+    },
+
+    {
+        "itemName" : "Chain of the Werewolf",
+        "quality" : "Gold",
+        "level" : "Master",
+        "leadLocation" : "Hircine’s Haunt delve, all bosses.",
+        "type" : "Mythic Item",
+        "digZone" : "Blackwood",
+        "img" : "",
+    },
+
+    {
+        "itemName" : "Glass Skeletal Visage",
+        "quality" : "Gold",
+        "level" : "Master",
+        "leadLocation" : "Public Dungeon Zenithar’s Abbey, all bosses",
+        "type" : "Mythic Item",
+        "digZone" : "Blackwood",
+        "img" : "",
+    },
+
+    {
+        "itemName" : "Carved Signet Base",
+        "quality" : "Gold",
+        "level" : "Master",
+        "leadLocation" : "Imperial City District Bosses",
+        "type" : "Mythic Item",
+        "digZone" : "Blackwood",
+        "img" : "",
+    },
+
+    {
+        "itemName" : "Warm Asymmetrical Ruby",
+        "quality" : "Gold",
+        "level" : "Master",
+        "leadLocation" : "Oblivion Portl, final chest",
+        "type" : "Mythic Item",
+        "digZone" : "Blackwood",
+        "img" : "",
+    },
+
+    {
+        "itemName" : "Weighted Spiked Bridge",
+        "quality" : "Gold",
+        "level" : "Master",
+        "leadLocation" : "Cyrodiil, Rewards of the Worthy",
+        "type" : "Mythic Item",
+        "digZone" : "Blackwood",
+        "img" : "",
+    },
+
+    {
+        "itemName" : "Kothringi-Cut Leather",
+        "quality" : "Gold",
+        "level" : "Master",
+        "leadLocation" : "World Bosses",
+        "type" : "Mythic Item",
         "digZone" : "Blackwood",
         "img" : "",
     },
@@ -614,11 +916,81 @@ db.scryLeadInfo.insertMany([
     // Bleackrock Isle
 
     {
-        "itemName" : "",
-        "quality" : "",
-        "level" : "",
-        "leadLocation" : "",
-        "type" : "",
+        "itemName" : "Ancestral Nord Axes",
+        "quality" : "Green",
+        "level" : "Basic",
+        "leadLocation" : "Treasure Map Chests",
+        "type" : "Motif",
+        "digZone" : "Bleakrock Isle",
+        "img" : "",
+    },
+
+    {
+        "itemName" : "Rune-Carved Steering Oar",
+        "quality" : "Green",
+        "level" : "Basic",
+        "leadLocation" : "Free Starter lead",
+        "type" : "Treasure",
+        "digZone" : "Bleakrock Isle",
+        "img" : "",
+    },
+
+    {
+        "itemName" : "Ancestral Nord Helmets",
+        "quality" : "Blue",
+        "level" : "Intermediate",
+        "leadLocation" : "Treasure Map Chests",
+        "type" : "Motif",
+        "digZone" : "Bleakrock Isle",
+        "img" : "",
+    },
+
+    {
+        "itemName" : "Cloven Ritual Mask",
+        "quality" : "Blue",
+        "level" : "Intermediate",
+        "leadLocation" : "Reward for excavating Rune-Carved Steering Oar",
+        "type" : "Treasure",
+        "digZone" : "Bleakrock Isle",
+        "img" : "",
+    },
+
+    {
+        "itemName" : "High King Sunstone",
+        "quality" : "Purple",
+        "level" : "Advanced",
+        "leadLocation" : "Reward for excavating Cloven Ritual Mask",
+        "type" : "Treasure",
+        "digZone" : "Bleakrock Isle",
+        "img" : "",
+    },
+
+    {
+        "itemName" : "Ruby Dragon Skull",
+        "quality" : "Purple",
+        "level" : "Advanced",
+        "leadLocation" : "Treasure Chest, Nodes, Thieves Troves, Random Monsters",
+        "type" : "Furnishing",
+        "digZone" : "Bleakrock Isle",
+        "img" : "",
+    },
+
+    {
+        "itemName" : "Auri-El Metal Carvings",
+        "quality" : "Gold",
+        "level" : "Advanced",
+        "leadLocation" : "Random Monsters",
+        "type" : "Mythic Item",
+        "digZone" : "Bleakrock Isle",
+        "img" : "",
+    },
+
+    {
+        "itemName" : "Brazier of Frozen Flame",
+        "quality" : "Gold",
+        "level" : "Ultimate",
+        "leadLocation" : "Random Monsters",
+        "type" : "Furnishing",
         "digZone" : "Bleakrock Isle",
         "img" : "",
     },
@@ -627,11 +999,41 @@ db.scryLeadInfo.insertMany([
     // Clockwork City
 
     {
-        "itemName" : "",
-        "quality" : "",
-        "level" : "",
-        "leadLocation" : "",
-        "type" : "",
+        "itemName" : "Series Two Animo Core",
+        "quality" : "Green",
+        "level" : "Basic",
+        "leadLocation" : "Free Starter lead",
+        "type" : "Treasure",
+        "digZone" : "Clockwork City",
+        "img" : "",
+    },
+
+    {
+        "itemName" : "Apostles Scourge",
+        "quality" : "Blue",
+        "level" : "Intermediate",
+        "leadLocation" : "Reward for excavating Series Tweo Animo Core",
+        "type" : "Treasure",
+        "digZone" : "Clockwork City",
+        "img" : "",
+    },
+
+    {
+        "itemName" : "Elegiac Vessel",
+        "quality" : "Purple",
+        "level" : "Advanced",
+        "leadLocation" : "Reward for excavating Eligiac Vessel",
+        "type" : "Treasure",
+        "digZone" : "Clockwork City",
+        "img" : "",
+    },
+
+    {
+        "itemName" : "Mnemonic Star-Sphere",
+        "quality" : "Gold",
+        "level" : "Master",
+        "leadLocation" : "Foul Bait Fishing",
+        "type" : "Furnishing",
         "digZone" : "Clockwork City",
         "img" : "",
     },
