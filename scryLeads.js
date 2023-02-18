@@ -396,113 +396,633 @@ db.scryLeadInfo.insertMany([
     // Bangkorai
 
     {
-        "itemName" : "",
-        "quality" : "",
-        "level" : "",
-        "leadLocation" : "",
-        "type" : "",
+        "itemName" : "Ancestral Orc Leg Greaves",
+        "quality" : "Green",
+        "level" : "Basic",
+        "leadLocation" : "Treasure Map Chest",
+        "type" : "Motif",
+        "digZone" : "Bangkorai",
+        "img" : "",
+    },
+
+    {
+        "itemName" : "Antique Map of Bangkorai",
+        "quality" : "Green",
+        "level" : "basic",
+        "leadLocation" : "Innkeeper (Requires Pathfinder Achievement",
+        "type" : "Furnishing",
+        "digZone" : "Bangkorai",
+        "img" : "",
+    },
+
+    {
+        "itemName" : "St. Pelin's Cod",
+        "quality" : "Green",
+        "level" : "Basic",
+        "leadLocation" : "Free Starter lead",
+        "type" : "Treasure",
+        "digZone" : "Bangkorai",
+        "img" : "",
+    },
+
+    {
+        "itemName" : "Dwarven Rib Frame",
+        "quality" : "Blue",
+        "level" : "Intermediate",
+        "leadLocation" : "Klathzgars Centurion in Klathzgar Delve",
+        "type" : "Mount",
+        "digZone" : "Bangkorai",
+        "img" : "",
+    },
+
+    {
+        "itemName" : "Wyrd Root Figure",
+        "quality" : "Blue",
+        "level" : "Intermediate",
+        "leadLocation" : "Reward for axcavating St Pelins Clod",
+        "type" : "Treasure",
+        "digZone" : "Bangkorai",
+        "img" : "",
+    },
+
+    {
+        "itemName" : "Ancestral Orc Shields",
+        "quality" : "Purple",
+        "level" : "Advanced",
+        "leadLocation" : "Treasure Map Chest",
+        "type" : "Motif",
+        "digZone" : "Bangkorai",
+        "img" : "",
+    },
+
+    {
+        "itemName" : "Dwemer Trade Bar",
+        "quality" : "Purple",
+        "level" : "Advanced",
+        "leadLocation" : "Reward for excavating Wyrd Root Figure",
+        "type" : "Treasure",
+        "digZone" : "Bangkorai",
+        "img" : "",
+    },
+
+    {
+        "itemName" : "Frostlancer Construction Crate",
+        "quality" : "Purple",
+        "level" : "Advanced",
+        "leadLocation" : "Gladiator’s Rucksack from Cyrodiil Daily Quest",
+        "type" : "Container",
+        "digZone" : "Bangkorai",
+        "img" : "",
+    },
+
+    {
+        "itemName" : "Sloped Dwarven Guards",
+        "quality" : "Purple",
+        "level" : "Advanced",
+        "leadLocation" : "Any Boss in Razaks Wheel Public Dungeon",
+        "type" : "Mount",
+        "digZone" : "Bangkorai",
+        "img" : "",
+    },
+
+    {
+        "itemName" : "Tall Papas Lamp (Painting)",
+        "quality" : "Purple",
+        "level" : "Advanced",
+        "leadLocation" : "Safeboxes, Thieves Trove, World Bosses, Public Dungeon Bosses, Nightstand in Anchor’s Point Inn, Evermore, Klathzgar Delve Boss",
+        "type" : "Furnishing",
+        "digZone" : "Bangkorai",
+        "img" : "",
+    },
+
+    {
+        "itemName" : "Torc Strand of Song",
+        "quality" : "Gold",
+        "level" : "Master",
+        "leadLocation" : "Captain Blackheart in Blackheart Haven Dungeon",
+        "type" : "Mythic Item",
+        "digZone" : "Bangkorai",
+        "img" : "",
+    },
+
+    {
+        "itemName" : "Aurmine Ancestral Signet",
+        "quality" : "Gold",
+        "level" : "Master",
+        "leadLocation" : "Chest",
+        "type" : "Mythic Item",
         "digZone" : "Bangkorai",
         "img" : "",
     },
 
     // Betnikh
 
+    {
+        "itemName" : "",
+        "quality" : "",
+        "level" : "",
+        "leadLocation" : "",
+        "type" : "",
+        "digZone" : "Betnikh",
+        "img" : "",
+    },
+
+    {
+        "itemName" : "",
+        "quality" : "",
+        "level" : "",
+        "leadLocation" : "",
+        "type" : "",
+        "digZone" : "Betnikh",
+        "img" : "",
+    },
+
+    {
+        "itemName" : "",
+        "quality" : "",
+        "level" : "",
+        "leadLocation" : "",
+        "type" : "",
+        "digZone" : "Betnikh",
+        "img" : "",
+    },
+
+    {
+        "itemName" : "",
+        "quality" : "",
+        "level" : "",
+        "leadLocation" : "",
+        "type" : "",
+        "digZone" : "Betnikh",
+        "img" : "",
+    },
+
+    {
+        "itemName" : "",
+        "quality" : "",
+        "level" : "",
+        "leadLocation" : "",
+        "type" : "",
+        "digZone" : "Betnikh",
+        "img" : "",
+    },
+
+    {
+        "itemName" : "",
+        "quality" : "",
+        "level" : "",
+        "leadLocation" : "",
+        "type" : "",
+        "digZone" : "Betnikh",
+        "img" : "",
+    },
+
+    {
+        "itemName" : "",
+        "quality" : "",
+        "level" : "",
+        "leadLocation" : "",
+        "type" : "",
+        "digZone" : "Betnikh",
+        "img" : "",
+    },
+
+    {
+        "itemName" : "",
+        "quality" : "",
+        "level" : "",
+        "leadLocation" : "",
+        "type" : "",
+        "digZone" : "Betnikh",
+        "img" : "",
+    },
+
 
     // Blackwood
+
+    {
+        "itemName" : "",
+        "quality" : "",
+        "level" : "",
+        "leadLocation" : "",
+        "type" : "",
+        "digZone" : "Blackwood",
+        "img" : "",
+    },
 
 
     // Bleackrock Isle
 
+    {
+        "itemName" : "",
+        "quality" : "",
+        "level" : "",
+        "leadLocation" : "",
+        "type" : "",
+        "digZone" : "Bleakrock Isle",
+        "img" : "",
+    },
+
 
     // Clockwork City
+
+    {
+        "itemName" : "",
+        "quality" : "",
+        "level" : "",
+        "leadLocation" : "",
+        "type" : "",
+        "digZone" : "Clockwork City",
+        "img" : "",
+    },
 
 
     // Coldharbour
 
+    {
+        "itemName" : "",
+        "quality" : "",
+        "level" : "",
+        "leadLocation" : "",
+        "type" : "",
+        "digZone" : "Coldharbour",
+        "img" : "",
+    },
+
 
     // Craglorn
+
+    {
+        "itemName" : "",
+        "quality" : "",
+        "level" : "",
+        "leadLocation" : "",
+        "type" : "",
+        "digZone" : "Craglorn",
+        "img" : "",
+    },
 
 
     // Deadlands
 
+    {
+        "itemName" : "",
+        "quality" : "",
+        "level" : "",
+        "leadLocation" : "",
+        "type" : "",
+        "digZone" : "Deadlands",
+        "img" : "",
+    },
+
 
     // Deshaan
+
+    {
+        "itemName" : "",
+        "quality" : "",
+        "level" : "",
+        "leadLocation" : "",
+        "type" : "",
+        "digZone" : "Deshaan",
+        "img" : "",
+    },
 
 
     // Eastmarch
 
+    {
+        "itemName" : "",
+        "quality" : "",
+        "level" : "",
+        "leadLocation" : "",
+        "type" : "",
+        "digZone" : "East March",
+        "img" : "",
+    },
+
 
     // Eyevea
+
+    {
+        "itemName" : "",
+        "quality" : "",
+        "level" : "",
+        "leadLocation" : "",
+        "type" : "",
+        "digZone" : "Eyevae",
+        "img" : "",
+    },
 
 
     // Galen and Y'ffelon
 
+    {
+        "itemName" : "",
+        "quality" : "",
+        "level" : "",
+        "leadLocation" : "",
+        "type" : "",
+        "digZone" : "Galen",
+        "img" : "",
+    },
+
 
     // Glenumbra
+
+    {
+        "itemName" : "",
+        "quality" : "",
+        "level" : "",
+        "leadLocation" : "",
+        "type" : "",
+        "digZone" : "Glenumbra",
+        "img" : "",
+    },
 
 
     // Gold Coast
 
+    {
+        "itemName" : "",
+        "quality" : "",
+        "level" : "",
+        "leadLocation" : "",
+        "type" : "",
+        "digZone" : "Gold Coast",
+        "img" : "",
+    },
+
 
     // Grahtwood
+
+    {
+        "itemName" : "",
+        "quality" : "",
+        "level" : "",
+        "leadLocation" : "",
+        "type" : "",
+        "digZone" : "Grahtwood",
+        "img" : "",
+    },
 
 
     // Greenshade
 
+    {
+        "itemName" : "",
+        "quality" : "",
+        "level" : "",
+        "leadLocation" : "",
+        "type" : "",
+        "digZone" : "GreenShade",
+        "img" : "",
+    },
+
 
     // Hew’s Bane
+
+    {
+        "itemName" : "",
+        "quality" : "",
+        "level" : "",
+        "leadLocation" : "",
+        "type" : "",
+        "digZone" : "Hews Bane",
+        "img" : "",
+    },
 
 
     // High Isle and Amenos
 
+    {
+        "itemName" : "",
+        "quality" : "",
+        "level" : "",
+        "leadLocation" : "",
+        "type" : "",
+        "digZone" : "High Isle",
+        "img" : "",
+    },
+
 
     // Khenarthi’s Roost
+
+    {
+        "itemName" : "",
+        "quality" : "",
+        "level" : "",
+        "leadLocation" : "",
+        "type" : "",
+        "digZone" : "Khenarthis Roost",
+        "img" : "",
+    },
 
 
     // Malabal Tor
 
+    {
+        "itemName" : "",
+        "quality" : "",
+        "level" : "",
+        "leadLocation" : "",
+        "type" : "",
+        "digZone" : "Malabal Tor",
+        "img" : "",
+    },
+
 
     // Murkmire
+
+    {
+        "itemName" : "",
+        "quality" : "",
+        "level" : "",
+        "leadLocation" : "",
+        "type" : "",
+        "digZone" : "Murkmire",
+        "img" : "",
+    },
 
 
     // Northern Elsweyr
 
+    {
+        "itemName" : "",
+        "quality" : "",
+        "level" : "",
+        "leadLocation" : "",
+        "type" : "",
+        "digZone" : "Northern Elsweyr",
+        "img" : "",
+    },
+
 
     // Reaper’s March
+
+    {
+        "itemName" : "",
+        "quality" : "",
+        "level" : "",
+        "leadLocation" : "",
+        "type" : "",
+        "digZone" : "Reapers March",
+        "img" : "",
+    },
 
 
     // Rivenspire
 
+    {
+        "itemName" : "",
+        "quality" : "",
+        "level" : "",
+        "leadLocation" : "",
+        "type" : "",
+        "digZone" : "Rivenspire",
+        "img" : "",
+    },
+
 
     // Shadowfen
+
+    {
+        "itemName" : "",
+        "quality" : "",
+        "level" : "",
+        "leadLocation" : "",
+        "type" : "",
+        "digZone" : "Shadowfen",
+        "img" : "",
+    },
 
 
     // Southern Elsweyr
 
+    {
+        "itemName" : "",
+        "quality" : "",
+        "level" : "",
+        "leadLocation" : "",
+        "type" : "",
+        "digZone" : "Southern Elsweyr",
+        "img" : "",
+    },
+
 
     // Stonefalls
+
+    {
+        "itemName" : "",
+        "quality" : "",
+        "level" : "",
+        "leadLocation" : "",
+        "type" : "",
+        "digZone" : "Stonefalls",
+        "img" : "",
+    },
 
 
     // Stormhaven
 
+    {
+        "itemName" : "",
+        "quality" : "",
+        "level" : "",
+        "leadLocation" : "",
+        "type" : "",
+        "digZone" : "Stormhaven",
+        "img" : "",
+    },
+
 
     // Stros M’Kai
+
+    {
+        "itemName" : "",
+        "quality" : "",
+        "level" : "",
+        "leadLocation" : "",
+        "type" : "",
+        "digZone" : "Stros Mkai",
+        "img" : "",
+    },
 
 
     // Summerset
 
+    {
+        "itemName" : "",
+        "quality" : "",
+        "level" : "",
+        "leadLocation" : "",
+        "type" : "",
+        "digZone" : "Summerset",
+        "img" : "",
+    },
+
 
     // The Reach
+
+    {
+        "itemName" : "",
+        "quality" : "",
+        "level" : "",
+        "leadLocation" : "",
+        "type" : "",
+        "digZone" : "The Reach",
+        "img" : "",
+    },
 
 
     // The Rift
 
+    {
+        "itemName" : "",
+        "quality" : "",
+        "level" : "",
+        "leadLocation" : "",
+        "type" : "",
+        "digZone" : "The Rift",
+        "img" : "",
+    },
+
 
     // Vvardenfell
+
+    {
+        "itemName" : "",
+        "quality" : "",
+        "level" : "",
+        "leadLocation" : "",
+        "type" : "",
+        "digZone" : "Vvardenfell",
+        "img" : "",
+    },
 
 
     // Western Skyrim
 
+    {
+        "itemName" : "",
+        "quality" : "",
+        "level" : "",
+        "leadLocation" : "",
+        "type" : "",
+        "digZone" : "Western Skyrim",
+        "img" : "",
+    },
+
 
     // Wrothgar
+
+    {
+        "itemName" : "",
+        "quality" : "",
+        "level" : "",
+        "leadLocation" : "",
+        "type" : "",
+        "digZone" : "Wrothgar",
+        "img" : "",
+    },
 ])
