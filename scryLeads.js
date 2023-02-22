@@ -1258,17 +1258,357 @@
     // Deadlands
 
     {
-        "itemName" : "",
-        "quality" : "",
-        "level" : "",
-        "leadLocation" : "",
-        "type" : "",
+        "itemName" : "Ancient Daedric: All Motif Parts",
+        "quality" : "Green",
+        "level" : "Basic",
+        "leadLocation" : "Treasure Map Chests",
+        "type" : "Motif",
+        "digZone" : "Deadlands",
+        "img" : "",
+    },
+
+    {
+        "itemName" : "Kynreeves Law-Cane",
+        "quality" : "Green",
+        "level" : "Basic",
+        "leadLocation" : "Free Starter Lead",
+        "type" : "Treasure",
+        "digZone" : "Deadlands",
+        "img" : "",
+    },
+
+    {
+        "itemName" : "Mindcleaver Clan Banner",
+        "quality" : "Blue",
+        "level" : "Intermediate",
+        "leadLocation" : "Reward for excavating the Kynreeve’s Law-Cane lead",
+        "type" : "Treasure",
+        "digZone" : "Deadlands",
+        "img" : "",
+    },
+
+    {
+        "itemName" : "Ancient Morpholith Chisel",
+        "quality" : "Purple",
+        "level" : "Advanced",
+        "leadLocation" : "Reward for excavating the Mindcleaver Clan Banner lead",
+        "type" : "Treasure",
+        "digZone" : "Deadlands",
+        "img" : "",
+    },
+
+    {
+        "itemName" : "Spell-Scorched Table",
+        "quality" : "Gold",
+        "level" : "Master",
+        "leadLocation" : "Safeboxes in the Fargrave zone",
+        "type" : "Furnishing",
+        "digZone" : "Deadlands",
+        "img" : "",
+    },
+
+    {
+        "itemName" : "Daedric Enchanting Apparatus",
+        "quality" : "Gold",
+        "level" : "Master",
+        "leadLocation" : "Final boss Atoll of Immolation public dungeon (Oblivion Portal)",
+        "type" : "Furnishing",
+        "digZone" : "Deadlands",
+        "img" : "",
+    },
+
+    {
+        "itemName" : "Unhallowed Runic Tome",
+        "quality" : "Gold",
+        "level" : "Master",
+        "leadLocation" : "Rune node in the Deadlands zone overland",
+        "type" : "Furnishing",
+        "digZone" : "Deadlands",
+        "img" : "",
+    },
+
+    {
+        "itemName" : "Dagons Scalding Gibbet",
+        "quality" : "Gold",
+        "level" : "Master",
+        "leadLocation" : "Wandering Bosses in the Deadlands zone",
+        "type" : "Furnishing",
+        "digZone" : "Deadlands",
+        "img" : "",
+    },
+
+    {
+        "itemName" : "Antique Map of the Deadlands",
+        "quality" : "Purple",
+        "level" : "Advanced",
+        "leadLocation" : "Merchants walking around in the Deadlands zone",
+        "type" : "Furnishing",
+        "digZone" : "Deadlands",
+        "img" : "",
+    },
+
+    {
+        "itemName" : "Ironclad Sarcoshroud",
+        "quality" : "Purple",
+        "level" : "Advanced",
+        "leadLocation" : "Daedric stone near a dead tree north of the Wretched Spire Wayshrine",
+        "type" : "Cosmetic",
+        "digZone" : "Deadlands",
+        "img" : "",
+    },
+
+    {
+        "itemName" : "Petrified Daedroth Horn",
+        "quality" : "Gold",
+        "level" : "Master",
+        "leadLocation" : "The Abomination Cradle World Boss in the Deadlands zone.",
+        "type" : "Mythic Item",
+        "digZone" : "Deadlands",
+        "img" : "",
+    },
+
+    {
+        "itemName" : "Void Alloy Rivets",
+        "quality" : "Gold",
+        "level" : "Master",
+        "leadLocation" : "Drops from any Dremora type monster in any of the zones in ESO",
+        "type" : "Mythic Item",
+        "digZone" : "Deadlands",
+        "img" : "",
+    },
+
+    {
+        "itemName" : "Void Alloy Lame Plates",
+        "quality" : "Gold",
+        "level" : "Master",
+        "leadLocation" : "Leyawiin safeboxes, Blackwood safeboxes",
+        "type" : "Mythic Item",
+        "digZone" : "Deadlands",
+        "img" : "",
+    },
+
+    {
+        "itemName" : "Aureal Armour Glaze",
+        "quality" : "Gold",
+        "level" : "Master",
+        "leadLocation" : "Shivering Shrine World Boss in Stonefalls",
+        "type" : "Mythic Item",
+        "digZone" : "Deadlands",
+        "img" : "",
+    },
+
+    {
+        "itemName" : "Clannfear Leather Strapping",
+        "quality" : "Gold",
+        "level" : "Master",
+        "leadLocation" : "Drops from Clannfears in any of the zone.",
+        "type" : "Mythic Item",
+        "digZone" : "Deadlands",
+        "img" : "",
+    },
+
+    {
+        "itemName" : "Mindcleaver Loop",
+        "quality" : "Gold",
+        "level" : "Master",
+        "leadLocation" : "Den of the Unmaker World Boss in the Deadlands Zone",
+        "type" : "Mythic Item",
+        "digZone" : "Deadlands",
+        "img" : "",
+    },
+
+    {
+        "itemName" : "Ruinblood Coil",
+        "quality" : "Gold",
+        "level" : "Master",
+        "leadLocation" : "Trash mobs in Banished Cells",
+        "type" : "Mythic Item",
+        "digZone" : "Deadlands",
+        "img" : "",
+    },
+
+    {
+        "itemName" : "Firescourge Band",
+        "quality" : "Gold",
+        "level" : "Master",
+        "leadLocation" : "Deadlands Daily Reward Coffer",
+        "type" : "Mythic Item",
+        "digZone" : "Deadlands",
+        "img" : "",
+    },
+
+    {
+        "itemName" : "Searing Gem",
+        "quality" : "Gold",
+        "level" : "Master",
+        "leadLocation" : "Deadrats in the Deadlands",
+        "type" : "Mythic Item",
+        "digZone" : "Deadlands",
+        "img" : "",
+    },
+
+    {
+        "itemName" : "Morpholith Shank",
+        "quality" : "Gold",
+        "level" : "Master",
+        "leadLocation" : "Treasure Chests in Coldharbour",
+        "type" : "Mythic Item",
+        "digZone" : "Deadlands",
+        "img" : "",
+    },
+
+    {
+        "itemName" : "Bulls Head Gallery Rail",
+        "quality" : "Gold",
+        "level" : "Master",
+        "leadLocation" : "Deadlands daily reward coffer",
+        "type" : "Mythic Item",
+        "digZone" : "Deadlands",
+        "img" : "",
+    },
+
+    {
+        "itemName" : "Crimson Diamond",
+        "quality" : "Gold",
+        "level" : "Master",
+        "leadLocation" : "Falkreath Hold Dungeon chests",
+        "type" : "Mythic Item",
+        "digZone" : "Deadlands",
+        "img" : "",
+    },
+
+    {
+        "itemName" : "Stainless Imperial Band",
+        "quality" : "Gold",
+        "level" : "Master",
+        "leadLocation" : "Black Drake Villa monsters",
+        "type" : "Mythic Item",
+        "digZone" : "Deadlands",
+        "img" : "",
+    },
+
+    {
+        "itemName" : "Etched Silver Horns",
+        "quality" : "Gold",
+        "level" : "Master",
+        "leadLocation" : "Treasure chests in Gold Coast",
+        "type" : "Mythic Item",
+        "digZone" : "Deadlands",
+        "img" : "",
+    },
+
+    {
+        "itemName" : "Alessian Sacramental Oil",
+        "quality" : "Gold",
+        "level" : "Master",
+        "leadLocation" : "Limenauruus Boss at Tribune’s Folley in the Gold Coast",
+        "type" : "Mythic Item",
         "digZone" : "Deadlands",
         "img" : "",
     },
 
 
     // Deshaan
+
+    {
+        "itemName" : "",
+        "quality" : "",
+        "level" : "",
+        "leadLocation" : "",
+        "type" : "",
+        "digZone" : "Deshaan",
+        "img" : "",
+    },
+
+    {
+        "itemName" : "",
+        "quality" : "",
+        "level" : "",
+        "leadLocation" : "",
+        "type" : "",
+        "digZone" : "Deshaan",
+        "img" : "",
+    },
+
+    {
+        "itemName" : "",
+        "quality" : "",
+        "level" : "",
+        "leadLocation" : "",
+        "type" : "",
+        "digZone" : "Deshaan",
+        "img" : "",
+    },
+
+    {
+        "itemName" : "",
+        "quality" : "",
+        "level" : "",
+        "leadLocation" : "",
+        "type" : "",
+        "digZone" : "Deshaan",
+        "img" : "",
+    },
+
+    {
+        "itemName" : "",
+        "quality" : "",
+        "level" : "",
+        "leadLocation" : "",
+        "type" : "",
+        "digZone" : "Deshaan",
+        "img" : "",
+    },
+
+    {
+        "itemName" : "",
+        "quality" : "",
+        "level" : "",
+        "leadLocation" : "",
+        "type" : "",
+        "digZone" : "Deshaan",
+        "img" : "",
+    },
+
+    {
+        "itemName" : "",
+        "quality" : "",
+        "level" : "",
+        "leadLocation" : "",
+        "type" : "",
+        "digZone" : "Deshaan",
+        "img" : "",
+    },
+
+    {
+        "itemName" : "",
+        "quality" : "",
+        "level" : "",
+        "leadLocation" : "",
+        "type" : "",
+        "digZone" : "Deshaan",
+        "img" : "",
+    },
+
+    {
+        "itemName" : "",
+        "quality" : "",
+        "level" : "",
+        "leadLocation" : "",
+        "type" : "",
+        "digZone" : "Deshaan",
+        "img" : "",
+    },
+
+    {
+        "itemName" : "",
+        "quality" : "",
+        "level" : "",
+        "leadLocation" : "",
+        "type" : "",
+        "digZone" : "Deshaan",
+        "img" : "",
+    },
 
     {
         "itemName" : "",
@@ -1293,8 +1633,128 @@
         "img" : "",
     },
 
+    {
+        "itemName" : "",
+        "quality" : "",
+        "level" : "",
+        "leadLocation" : "",
+        "type" : "",
+        "digZone" : "East March",
+        "img" : "",
+    },
+
+    {
+        "itemName" : "",
+        "quality" : "",
+        "level" : "",
+        "leadLocation" : "",
+        "type" : "",
+        "digZone" : "East March",
+        "img" : "",
+    },
+
+    {
+        "itemName" : "",
+        "quality" : "",
+        "level" : "",
+        "leadLocation" : "",
+        "type" : "",
+        "digZone" : "East March",
+        "img" : "",
+    },
+
+    {
+        "itemName" : "",
+        "quality" : "",
+        "level" : "",
+        "leadLocation" : "",
+        "type" : "",
+        "digZone" : "East March",
+        "img" : "",
+    },
+
+    {
+        "itemName" : "",
+        "quality" : "",
+        "level" : "",
+        "leadLocation" : "",
+        "type" : "",
+        "digZone" : "East March",
+        "img" : "",
+    },
+
+    {
+        "itemName" : "",
+        "quality" : "",
+        "level" : "",
+        "leadLocation" : "",
+        "type" : "",
+        "digZone" : "East March",
+        "img" : "",
+    },
+
+    {
+        "itemName" : "",
+        "quality" : "",
+        "level" : "",
+        "leadLocation" : "",
+        "type" : "",
+        "digZone" : "East March",
+        "img" : "",
+    },
+
+    {
+        "itemName" : "",
+        "quality" : "",
+        "level" : "",
+        "leadLocation" : "",
+        "type" : "",
+        "digZone" : "East March",
+        "img" : "",
+    },
+
+    {
+        "itemName" : "",
+        "quality" : "",
+        "level" : "",
+        "leadLocation" : "",
+        "type" : "",
+        "digZone" : "East March",
+        "img" : "",
+    },
+
 
     // Eyevea
+
+    {
+        "itemName" : "",
+        "quality" : "",
+        "level" : "",
+        "leadLocation" : "",
+        "type" : "",
+        "digZone" : "Eyevae",
+        "img" : "",
+    },
+
+    {
+        "itemName" : "",
+        "quality" : "",
+        "level" : "",
+        "leadLocation" : "",
+        "type" : "",
+        "digZone" : "Eyevae",
+        "img" : "",
+    },
+
+    {
+        "itemName" : "",
+        "quality" : "",
+        "level" : "",
+        "leadLocation" : "",
+        "type" : "",
+        "digZone" : "Eyevae",
+        "img" : "",
+    },
 
     {
         "itemName" : "",
