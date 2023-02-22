@@ -1042,11 +1042,91 @@
     // Coldharbour
 
     {
-        "itemName" : "",
-        "quality" : "",
-        "level" : "",
-        "leadLocation" : "",
-        "type" : "",
+        "itemName" : "Tormentors Roller",
+        "quality" : "Green",
+        "level" : "Basic",
+        "leadLocation" : "Free Starter lead",
+        "type" : "Treasure",
+        "digZone" : "Coldharbour",
+        "img" : "",
+    },
+
+    {
+        "itemName" : "Inert Daedric Manacles",
+        "quality" : "Blue",
+        "level" : "Intermediate",
+        "leadLocation" : "Reward for excavatinf Tormentors Roller",
+        "type" : "Treasure",
+        "digZone" : "Coldharbour",
+        "img" : "",
+    },
+
+    {
+        "itemName" : "Daedric Pill of Torment (Painting)",
+        "quality" : "Purple",
+        "level" : "Advanced",
+        "leadLocation" : "Chest, Nodes, Village of the Lost Public Dungeon Bosses, World Bosses, Vaults of Madness Monsters",
+        "type" : "Furnishing",
+        "digZone" : "Coldharbour",
+        "img" : "",
+    },
+
+    {
+        "itemName" : "Ebony-Forged Dwarven Limbs",
+        "quality" : "Purple",
+        "level" : "Advanced",
+        "leadLocation" : "World Bosses",
+        "type" : "Mount",
+        "digZone" : "Coldharbour",
+        "img" : "",
+    },
+
+    {
+        "itemName" : "Shattered Iron Maiden",
+        "quality" : "Purple",
+        "level" : "Advanced",
+        "leadLocation" : "Reward for excavating Inert Daedric Manacles",
+        "type" : "Treasure",
+        "digZone" : "Coldharbour",
+        "img" : "",
+    },
+
+    {
+        "itemName" : "Magicka-Imbuded Metal Plates",
+        "quality" : "Gold",
+        "level" : "Master",
+        "leadLocation" : "Raelynne Ahham Boss in Underpall Cave, in Cyrodiil.",
+        "type" : "Mythic Item",
+        "digZone" : "Coldharbour",
+        "img" : "",
+    },
+
+    {
+        "itemName" : "Sanguine Doublet",
+        "quality" : "Gold",
+        "level" : "Master",
+        "leadLocation" : "Public Dunegon Bosses, Village of the Lost",
+        "type" : "Mythic Item",
+        "digZone" : "Coldharbour",
+        "img" : "",
+    },
+
+    {
+        "itemName" : "Void-Crystal Anomaly",
+        "quality" : "Gold",
+        "level" : "Master",
+        "leadLocation" : "Nodes",
+        "type" : "Furnishing",
+        "digZone" : "Coldharbour",
+        "img" : "",
+    },
+
+    {
+        "itemName" : "Chain of the Bone Goliath",
+        "quality" : "Gold",
+        "level" : "Master",
+        "leadLocation" : "Vaults of Madness, Final Boss",
+        "type" : "Mythic Item",
         "digZone" : "Coldharbour",
         "img" : "",
     },
@@ -1055,11 +1135,121 @@
     // Craglorn
 
     {
-        "itemName" : "",
-        "quality" : "",
-        "level" : "",
-        "leadLocation" : "",
-        "type" : "",
+        "itemName" : "Wathers Ritual Stole",
+        "quality" : "Green",
+        "level" : "Basic",
+        "leadLocation" : "Free Starter Lead",
+        "type" : "Treasure",
+        "digZone" : "Craglorn",
+        "img" : "",
+    },
+
+    {
+        "itemName" : "Cracked Serpent Pendant",
+        "quality" : "Blue",
+        "level" : "Intermediate",
+        "leadLocation" : "Reward for excavating Watcher’s Ritual Stole",
+        "type" : "Treasure",
+        "digZone" : "Craglorn",
+        "img" : "",
+    },
+
+    {
+        "itemName" : "Sacrificed Weapons of Four",
+        "quality" : "Purple",
+        "level" : "Advanced",
+        "leadLocation" : "Reward for excavating Cracked Serpent Pendant",
+        "type" : "Treasure",
+        "digZone" : "Craglorn",
+        "img" : "",
+    },
+
+    {
+        "itemName" : "Spellcar Shard",
+        "quality" : "Purple",
+        "level" : "Advanced",
+        "leadLocation" : "Treasure Chest, Random Monsters, Chest Event in Skyreach, Thieve Troves",
+        "type" : "Furnishing",
+        "digZone" : "Craglorn",
+        "img" : "",
+    },
+
+    {
+        "itemName" : "Aetherquartz Tonal Resonator",
+        "quality" : "Gold",
+        "level" : "Master",
+        "leadLocation" : "Mtharnaz Group Delve, Boss The Brass Hatchling",
+        "type" : "Mount",
+        "digZone" : "Craglorn",
+        "img" : "",
+    },
+
+    {
+        "itemName" : "Altar of Celestial Convergence (Painting)",
+        "quality" : "Gold",
+        "level" : "Master",
+        "leadLocation" : "Final Bosses of Craglorn Trials",
+        "type" : "Furnishing",
+        "digZone" : "Craglorn",
+        "img" : "",
+    },
+
+    {
+        "itemName" : "Ebon Dwarven Wolf Head",
+        "quality" : "Gold",
+        "level" : "Master",
+        "leadLocation" : "Rkundzelft Group Delve, Mzeklok Boss",
+        "type" : "Mount",
+        "digZone" : "Craglorn",
+        "img" : "",
+    },
+
+    {
+        "itemName" : "Large Aetherium Lenses",
+        "quality" : "Gold",
+        "level" : "Master",
+        "leadLocation" : "Rkhardahrk Group Delve, The Last Sentinel Boss",
+        "type" : "Mount",
+        "digZone" : "Craglorn",
+        "img" : "",
+    },
+
+    {
+        "itemName" : "Torc Throat Guards",
+        "quality" : "Gold",
+        "level" : "Master",
+        "leadLocation" : "Anka’Ra Crucible World Boss Event, Chests Near World Boss Event",
+        "type" : "Mythic Item",
+        "digZone" : "Craglorn",
+        "img" : "",
+    },
+
+    {
+        "itemName" : "Sturdy Silver Prongs",
+        "quality" : "Gold",
+        "level" : "Master",
+        "leadLocation" : "Dragonstar Arena last chest after endboss",
+        "type" : "Mythic Item",
+        "digZone" : "Craglorn",
+        "img" : "",
+    },
+
+    {
+        "itemName" : "Wide Barbed Shank",
+        "quality" : "Gold",
+        "level" : "Master",
+        "leadLocation" : "Anomalies in Craglorn in the reward treasure chest, Nirncrux Mines",
+        "type" : "Mythic Item",
+        "digZone" : "Craglorn",
+        "img" : "",
+    },
+
+    {
+        "itemName" : "Chain of the Werewolf",
+        "quality" : "Gold",
+        "level" : "Master",
+        "leadLocation" : "Hircine’s Haunt delve, all bosses",
+        "type" : "Mythic Item",
         "digZone" : "Craglorn",
         "img" : "",
     },
